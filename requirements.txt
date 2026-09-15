@@ -1,6 +1,6 @@
 streamlit>=1.35.0
 # tensorflow>=2.13.0  # Optional: install if Python 3.10/3.11 is available
-opencv-python>=4.8.0
+opencv-python-headless>=4.8.0
 numpy>=1.24.0
 pandas>=2.0.0
 pillow>=10.0.0
