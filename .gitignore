@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+.env
+.streamlit/secrets.toml
+uploads/*
+!uploads/.gitkeep
+reports/*
+!reports/.gitkeep
+processed/*
+!processed/.gitkeep
+*.db-journal
